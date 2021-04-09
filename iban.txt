@@ -1,0 +1,326 @@
+10100000:Narodowy Bank Polski
+10200000:Powszechna Kasa Oszczędności Bank Polski Spółka Akcyjna
+10300000:Bank Handlowy w Warszawie Spółka Akcyjna
+10500000:ING Bank Śląski Spółka Akcyjna
+10900000:Santander Bank Polska Spółka Akcyjna
+11600000:Bank Millennium Spółka Akcyjna
+12200000:Bank Handlowo-Kredytowy Spółka Akcyjna w Katowicach w likwidacji
+16100000:SGB-Bank Spółka Akcyjna
+18700000:Nest Bank Spółka Akcyjna
+18900000:Pekao Bank Hipoteczny Spółka Akcyjna
+19300000:BANK POLSKIEJ SPÓŁDZIELCZOŚCI SPÓŁKA AKCYJNA
+19500000:Idea Bank Spółka Akcyjna
+20300000:BNP Paribas Bank Polska Spółka Akcyjna
+21200000:Santander Consumer Bank Spółka Akcyjna
+21500000:mBank Hipoteczny Spółka Akcyjna
+21900000:DNB Bank Polska Spółka Akcyjna
+22400000:Banque PSA Finance Spółka Akcyjna Oddział w Polsce
+23500000:BNP Paribas S.A. Oddział w Polsce
+23600000:Danske Bank A/S Spółka Akcyjna Oddział w Polsce
+23700000:Skandinaviska Enskilda Banken AB (Spółka Akcyjna) - Oddział w Polsce
+24100000:Elavon Financial Services Designated Activity Company (Spółka z O.O. o Wyznaczonym Przedmiocie Działalności) Oddział w Polsce
+24700000:HAITONG BANK, S.A. Spółka Akcyjna Oddział w Polsce
+24800000:Getin Noble Bank Spółka Akcyjna
+25100000:Aareal Bank Aktiengesellschaft (Spółka Akcyjna) - Oddział w Polsce
+25500000:Ikano Bank AB (publ) Spółka Akcyjna Oddział w Polsce
+25800000:J.P. Morgan Europe Limited Spółka z ograniczoną odpowiedzialnością Oddział w Polsce
+26200000:Industrial and Commercial Bank of China (Europe) S.A. (Spółka Akcyjna) Oddział w Polsce
+26600000:Intesa Sanpaolo S.p.A. Spółka Akcyjna Oddział w Polsce
+26900000:PKO Bank Hipoteczny Spółka Akcyjna
+27000000:TF BANK AB (Spółka z ograniczoną odpowiedzialnością) Oddział w Polsce
+27300000:China Construction Bank (Europe) S.A. (Spółka Akcyjna) Oddział w Polsce
+27700000:Volkswagen Bank GmbH Spółka z ograniczoną odpowiedzialnością Oddział w Polsce
+27800000:ING Bank Hipoteczny Spółka Akcyjna
+28000000:HSBC France (Spółka Akcyjna) Oddział w Polsce
+28500000:Banca Farmafactoring S.p.A. Spółka Akcyjna Oddział w Polsce
+60400000:SkyCash Poland Spółka Akcyjna
+61100000:VIVA PAYMENT SERVICES SPÓŁKA AKCYJNA ODDZIAŁ W POLSCE
+63000000:Igoria Trade Spółka Akcyjna
+70050000:Spółdzielcza Kasa Oszczędnościowo-Kredytowa im. Powstańców Śląskich
+70140000:Spółdzielcza Kasa Oszczędnościowo-Kredytowa w Kostrzynie nad Odrą
+70390000:Spółdzielcza Kasa Oszczędnościowo-Kredytowa "Boże Dary"
+70420000:Spółdzielcza Kasa Oszczędnościowo-Kredytowa im. Unii Lubelskiej w Lublinie
+70480000:Spółdzielcza Kasa Oszczędnościowo-Kredytowa "Śląsk" z siedzibą w Rudzie Śląskiej
+70560000:Spółdzielcza Kasa Oszczędnościowo-Kredytowa ?Beskidy?
+70650000:Spółdzielcza Kasa Oszczędnościowo-Kredytowa im. Franciszka Stefczyka
+70890000:Spółdzielcza Kasa Oszczędnościowo-Kredytowa ?Szopienice? w Katowicach
+71050000:Spółdzielcza Kasa Oszczędnościowo-Kredytowa przy Dezamet S.A. w Nowej Dębie
+71150000:Spółdzielcza Kasa Oszczędnościowo-Kredytowa ?Centrum?
+71190000:Spółdzielcza Kasa Oszczędnościowo-Kredytowa im. Królowej Jadwigi
+71830000:Rzeszowska Spółdzielcza Kasa Oszczędnościowo-Kredytowa im. Bpa J. S. Pelczara
+71900000:Regionalna Spółdzielcza Kasa Oszczędnościowo-Kredytowa im. św. Brata Alberta
+80010000:Bank Spółdzielczy w Otwocku
+80040000:Bank Spółdzielczy w Raszynie
+80080000:Bank Spółdzielczy w Tarczynie
+80090000:Mazowiecki Bank Spółdzielczy w Łomiankach
+80110000:Bank Spółdzielczy w Nowym Dworze Mazowieckim
+80150000:Warszawski Bank Spółdzielczy
+80230000:Bank Spółdzielczy w Karczewie
+80350000:Bank Spółdzielczy w Kornicy
+80370000:Bank Spółdzielczy w Łomazach
+80380000:Bank Spółdzielczy w Łosicach
+80440000:Bank Spółdzielczy w Platerowie
+80600000:Bank Spółdzielczy w Białymstoku
+80630000:Bank Spółdzielczy w Brańsku
+80740000:Bank Spółdzielczy w Juchnowcu Górnym
+80760000:Podlaski Bank Spółdzielczy w Knyszynie
+80810000:Bank Spółdzielczy w Łapach
+80860000:Bank Spółdzielczy w Narwi
+80930000:Bank Spółdzielczy w Sokółce
+80990000:Podlasko-Mazurski Bank Spółdzielczy w Zabłudowie
+81110000:Beskidzki Bank Spółdzielczy
+81120000:Bank Spółdzielczy w Brzeźnicy
+81130000:Bank Spółdzielczy w Cieszynie
+81180000:Bank Spółdzielczy w Jeleśni
+81240000:Bank Spółdzielczy w Porąbce
+81290000:Bank Spółdzielczy w Ustroniu
+81310000:Bank Spółdzielczy w Węgierskiej Górce
+81340000:Bank Spółdzielczy w Wilamowicach
+81370000:Bank Spółdzielczy w Żywcu
+81420000:Bank Spółdzielczy w Bydgoszczy
+81460000:Bank Spółdzielczy w Chojnicach
+81490000:Bank Spółdzielczy w Inowrocławiu
+81590000:Bank Spółdzielczy w Strzelnie
+81640000:Bank Spółdzielczy w Szubinie
+81670000:Bank Spółdzielczy w Barcinie
+81690000:Bank Spółdzielczy w Osiu
+81730000:Bank Spółdzielczy w Nowem n/Wisłą
+81790000:Bank Spółdzielczy w Nakle n/Notecią
+81850000:Piastowski Bank Spółdzielczy w Janikowie
+81880000:Bank Spółdzielczy w Wojsławicach
+81920000:Bank Spółdzielczy w Sawinie
+82000000:Bank Spółdzielczy w Krasnymstawie
+82020000:Bank Spółdzielczy w Białopolu
+82120000:Bank Spółdzielczy w Bieżuniu
+82250000:Bank Spółdzielczy w Mławie
+82290000:Bank Spółdzielczy w Glinojecku
+82300000:Bank Spółdzielczy w Płońsku
+82330000:Bank Spółdzielczy w Raciążu
+82410000:Bank Spółdzielczy w Załuskach
+82420000:Bank Spółdzielczy w Żurominie
+82500000:Bank Spółdzielczy w Krzepicach
+82560000:Bank Spółdzielczy we Mstowie
+82590000:Bank Spółdzielczy w Popowie z/s w Zawadach
+82600000:Bank Spółdzielczy w Poczesnej
+82650000:Bank Spółdzielczy w Pajęcznie
+82730000:Bank Spółdzielczy w Konopiskach
+82770000:Bank Spółdzielczy w Szczekocinach
+83030000:Bank Spółdzielczy w Malborku
+83040000:Bank Spółdzielczy w Nowym Stawie
+83080000:Bank Spółdzielczy w Stegnie
+83100000:Bank Spółdzielczy w Dzierzgoniu
+83200000:Bank Spółdzielczy w Suszu
+83280000:Bank Spółdzielczy w Kościerzynie
+83370000:Bank Spółdzielczy w Pszczółkach
+83420000:Bank Spółdzielczy w Skórczu
+83480000:Bank Spółdzielczy w Pucku
+83500000:Kaszubski Bank Spółdzielczy
+83550000:Gospodarczy Bank Spółdzielczy w Barlinku
+83590000:Zachodniopomorski Bank Spółdzielczy
+83620000:Lubusko-Wielkopolski Bank Spółdzielczy z siedzibą w Drezdenku
+83630000:Gospodarczy Bank Spółdzielczy w Gorzowie Wielkopolskim
+83710000:Bank Spółdzielczy w Rzepinie
+83840000:Bank Spółdzielczy Lwówek Śląski w Lwówku Śląskim
+83950000:Bank Spółdzielczy w Kamiennej Górze
+84070000:Bank Spółdzielczy w Pleszewie
+84100000:Bank Spółdzielczy w Krotoszynie
+84130000:Spółdzielczy Bank Ludowy w Kępnie
+84270000:Bank Spółdzielczy w Jarocinie
+84310000:Spółdzielczy Bank Ludowy w Skalmierzycach
+84360000:Mikołowski Bank Spółdzielczy w Mikołowie
+84370000:Śląski Bank Spółdzielczy "Silesia" w Katowicach
+84440000:Bank Spółdzielczy w Chrzanowie
+84460000:Bank Spółdzielczy w Miedźnej
+84470000:Bank Spółdzielczy w Pawłowicach
+84490000:Bank Spółdzielczy w Olkuszu w likwidacji
+84530000:Bank Spółdzielczy Czechowice-Dziedzice-Bestwina
+84550000:Rybnicki Bank Spółdzielczy
+84600000:Bank Spółdzielczy w Sośnicowicach
+84660000:Bank Spółdzielczy w Tworogu
+84690000:Bank Spółdzielczy w Gorzycach
+84740000:Bank Spółdzielczy w Krzyżanowicach
+84830000:Bank Spółdzielczy w Chmielniku
+84900000:Bank Spółdzielczy w Jędrzejowie
+84940000:Bank Spółdzielczy w Końskich
+84990000:Bank Spółdzielczy w Łopusznie
+85090000:Bank Spółdzielczy w Pińczowie
+85120000:Bank Spółdzielczy w Samsonowie
+85180000:Bank Spółdzielczy w Starachowicach
+85210000:Bank Spółdzielczy w Szydłowie
+85230000:Bank Spółdzielczy w Wąchocku
+85260000:Bank Spółdzielczy w Wodzisławiu
+85340000:Bank Spółdzielczy w Ślesinie
+85390000:Bank Spółdzielczy w Grabowie
+85430000:Ludowy Bank Spółdzielczy w Strzałkowie
+85450000:Bank Spółdzielczy w Kłodawie
+85580000:Bank Spółdzielczy w Wierzbinku
+85660000:Bałtycki Bank Spółdzielczy
+85910000:Krakowski Bank Spółdzielczy
+86000000:Bank Spółdzielczy w Skawinie
+86120000:Bank Spółdzielczy w Krzeszowicach
+86190000:Małopolski Bank Spółdzielczy
+86260000:Bank Spółdzielczy w Kołaczycach
+86360000:Bank Spółdzielczy w Rymanowie
+86440000:Bank Spółdzielczy w Chojnowie
+86470000:Bank Spółdzielczy w Jaworze
+86490000:Bank Spółdzielczy w Legnicy
+86580000:Powiatowy Bank Spółdzielczy w Złotoryi
+86630000:Bank Spółdzielczy w Górze
+86670000:Bank Spółdzielczy w Śmiglu
+86740000:Bank Spółdzielczy w Jutrosinie
+86780000:Powiatowy Bank Spółdzielczy w Gostyniu
+86870000:Bank Spółdzielczy w Niedrzwicy Dużej
+86930000:Bank Spółdzielczy w Łęcznej
+87070000:Bank Spółdzielczy w Lubartowie
+87210000:Bank Spółdzielczy w Kocku
+87290000:Bank Spółdzielczy w Józefowie nad Wisłą
+87320000:Bank Spółdzielczy w Kurowie
+87340000:Powiatowy Bank Spółdzielczy w Opolu Lubelskim
+87470000:Bank Spółdzielczy w Czyżewie
+87490000:Bank Spółdzielczy w Ciechanowcu
+87540000:Bank Spółdzielczy w Kolnie
+87660000:Bank Spółdzielczy w Sokołach
+87700000:Bank Spółdzielczy w Szumowie
+87750000:Bank Spółdzielczy w Zambrowie
+87810000:Bank Spółdzielczy w Andrespolu
+87840000:Bank Spółdzielczy Rzemiosła w Łodzi
+87860000:Bank Spółdzielczy w Ozorkowie
+87880000:Bank Spółdzielczy Towarzystwo Oszczędnościowo - Pożyczkowe "PA-CO-BANK" w Pabianicach
+87920000:Bank Spółdzielczy w Czarnym Dunajcu
+87970000:Bank Spółdzielczy w Grybowie
+87980000:Bank Spółdzielczy w Jabłonce
+88040000:Bank Spółdzielczy w Limanowej
+88080000:Bank Spółdzielczy w Mszanie Dolnej
+88120000:Bank Spółdzielczy w Nowym Targu
+88130000:Bank Spółdzielczy w Piwnicznej - Zdroju
+88150000:Bank Spółdzielczy w Rabie Wyżnej
+88170000:Pieniński Bank Spółdzielczy
+88180000:Bank Spółdzielczy w Łososinie Dolnej
+88230000:Bank Spółdzielczy w Olsztynku
+88310000:Bank Spółdzielczy w Iławie
+88320000:Bank Spółdzielczy w Lubawie
+88430000:Morąsko-Zalewski Bank Spółdzielczy
+88510000:Bank Spółdzielczy w Reszlu
+88570000:Warmiński Bank Spółdzielczy
+88660000:Bank Spółdzielczy w Baborowie
+88700000:Bank Spółdzielczy Grodków-Łosiów z siedzibą w Grodkowie
+88760000:Bank Spółdzielczy w Wołczynie
+88830000:Bank Spółdzielczy w Gogolinie
+88840000:Bank Spółdzielczy w Krapkowicach
+88900000:Bank Spółdzielczy w Namysłowie
+88970000:Bank Spółdzielczy w Łubnianach
+89030000:Bank Spółdzielczy w Białej
+89050000:Bank Spółdzielczy w Prudniku
+89070000:Bank Spółdzielczy w Leśnicy
+89150000:Bank Spółdzielczy w Goworowie
+89160000:Bank Spółdzielczy w Kadzidle
+89200000:Kurpiowski Bank Spółdzielczy w Myszyńcu
+89230000:Bank Spółdzielczy w Ostrowi Mazowieckiej
+89240000:Bank Spółdzielczy w Przasnyszu
+89300000:Bank Spółdzielczy w Wąsewie
+89350000:Bank Spółdzielczy w Jastrowiu
+89380000:Bank Spółdzielczy w Łobżenicy
+89410000:Spółdzielczy Bank Ludowy w Złotowie
+89430000:Bank Spółdzielczy w Lipce
+89450000:Bank Spółdzielczy w Chodzieży
+89590000:Pałucki Bank Spółdzielczy w Wągrowcu
+89610000:Bank Spółdzielczy we Wronkach
+89780000:Bank Spółdzielczy w Kleszczowie
+89850000:Powiatowy Bank Spółdzielczy w Tomaszowie Mazowieckim
+89920000:Bank Spółdzielczy w Opocznie
+90080000:Bank Spółdzielczy w Staroźrebach
+90110000:Vistula Bank Spółdzielczy
+90130000:Bank Spółdzielczy w Gąbinie
+90210000:Bank Spółdzielczy "Wspólna Praca" w Kutnie
+90290000:Bank Spółdzielczy Ziemi Łęczyckiej w Łęczycy
+90380000:Bank Spółdzielczy w Starej Białej
+90430000:POZNAŃSKI BANK SPÓŁDZIELCZY
+90480000:Gospodarczy Bank Spółdzielczy w Mosinie
+90580000:Bank Spółdzielczy w Nowym Tomyślu
+90650000:Bank Spółdzielczy w Gnieźnie
+90750000:Bank Spółdzielczy w Kostrzynie
+90760000:Bank Spółdzielczy w Kórniku
+90820000:Bank Spółdzielczy Pojezierza Międzychodzko - Sierakowskiego w Sierakowie
+90850000:BANK SPÓŁDZIELCZY w Środzie Wielkopolskiej
+90930000:Bank Spółdzielczy w Dynowie
+91010000:Bank Spółdzielczy w Lubaczowie
+91030000:Bank Spółdzielczy w Narolu
+91130000:Bank Spółdzielczy w Żurawicy
+91160000:Bank Spółdzielczy im.Stefczyka w Belsku Dużym
+91250000:Bank Spółdzielczy w Głowaczowie
+91280000:Bank Spółdzielczy w Grójcu
+91300000:Bank Spółdzielczy w Jasieńcu
+91350000:Bank Spółdzielczy w Lipsku
+91450000:Bank Spółdzielczy w Przysusze
+91500000:Bank Spółdzielczy w Skaryszewie
+91570000:Bank Spółdzielczy w Zwoleniu
+91610000:Bank Spółdzielczy w Lubeni
+91640000:Bank Spółdzielczy w Tyczynie
+91680000:Bank Spółdzielczy w Strzyżowie
+91710000:Bank Spółdzielczy w Ropczycach
+91750000:Bank Spółdzielczy w Żołyni
+91770000:Bank Spółdzielczy w Łańcucie
+91830000:Bank Spółdzielczy w Mielcu
+91870000:Bank Spółdzielczy w Leżajsku
+91930000:Bank Spółdzielczy w Mokobodach
+91970000:Bank Spółdzielczy w Sobieniach Jeziorach
+92020000:Bank Spółdzielczy w Adamowie
+92100000:Bank Spółdzielczy w Garwolinie
+92210000:Powiatowy Bank Spółdzielczy w Sokołowie Podlaskim
+92260000:Bank Spółdzielczy w Mińsku Mazowieckim
+92270000:Bank Spółdzielczy w Mrozach
+92360000:Powiatowy Bank Spółdzielczy w Węgrowie
+92450000:Bank Spółdzielczy w Błaszkach
+92630000:Bank Spółdzielczy w Poddębicach
+92670000:Bank Spółdzielczy w Sieradzu
+92700000:Bank Spółdzielczy w Warcie
+92790000:Ludowy Bank Spółdzielczy w Zduńskiej Woli
+92840000:Bank Spółdzielczy w Teresinie
+92970000:Bank Spółdzielczy w Skierniewicach
+93040000:Bank Spółdzielczy w Wiskitkach
+93150000:Bank Spółdzielczy w Ustce
+93310000:Bank Spółdzielczy w Ełku
+93390000:Bank Spółdzielczy w Olecku
+93480000:Bank Spółdzielczy w Węgorzewie
+93510000:Bank Spółdzielczy w Augustowie
+93640000:Warmińsko - Mazurski Bank Spółdzielczy
+93700000:Bank Spółdzielczy w Chojnie
+93750000:Bank Spółdzielczy w Goleniowie
+93760000:Bank Spółdzielczy w Gryficach
+93770000:Bank Spółdzielczy w Gryfinie
+93870000:Pyrzycko-Stargardzki Bank Spółdzielczy
+94100000:Bank Spółdzielczy w Janowie Lubelskim
+94250000:Bank Spółdzielczy w Połańcu
+94300000:Nadsański Bank Spółdzielczy
+94390000:Bank Spółdzielczy w Zaleszanach
+94530000:Bank Spółdzielczy w Brzesku
+94640000:Bank Spółdzielczy w Szczucinie
+94770000:Bank Spółdzielczy w Pilźnie
+94780000:Bank Spółdzielczy w Żyrakowie
+94840000:Bank Spółdzielczy w Brodnicy
+94910000:Bank Spółdzielczy w Grębocinie
+95000000:Bank Spółdzielczy w Łasinie
+95110000:Bank Spółdzielczy w Toruniu
+95230000:Bank Spółdzielczy w Kłodzku
+95270000:Bank Spółdzielczy w Dzierżoniowie
+95370000:Kujawski Bank Spółdzielczy w Aleksandrowie Kujawskim
+95460000:Bank Spółdzielczy w Skępem
+95510000:Bank Spółdzielczy w Piotrkowie Kujawskim
+95750000:Bank Spółdzielczy w Kobierzycach
+95830000:Bank Spółdzielczy w Obornikach Śląskich
+95850000:Bank Spółdzielczy w Oławie
+95890000:Bank Spółdzielczy w Środzie Śląskiej
+95910000:Bank Spółdzielczy w Trzebnicy
+96020000:Bank Spółdzielczy w Biłgoraju
+96040000:Bank Spółdzielczy we Frampolu
+96140000:Bank Spółdzielczy w Księżpolu
+96200000:Bank Spółdzielczy w Łaszczowie
+96280000:Bank Spółdzielczy w Nieliszu z/s w Stawie Noakowskim
+96370000:Bank Spółdzielczy w Tarnogrodzie
+96390000:Bank Spółdzielczy w Tomaszowie Lubelskim
+96490000:Bank Spółdzielczy w Biszczy
+96570000:Bank Spółdzielczy w Żaganiu
+96600000:Bank Spółdzielczy w Siedlcu
+96720000:Bank Spółdzielczy w Trzebielu
+96740000:Bank Spółdzielczy w Nowej Soli
+96810000:Powiatowy Bank Spółdzielczy we Wrześni
